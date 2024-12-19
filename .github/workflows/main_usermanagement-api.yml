@@ -51,4 +51,4 @@ jobs:
           app-name: 'UserManagement-API'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B586492938AB476D8E211EE67961E5D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_826FF63C566D4BF69B04206EDB550285 }}
